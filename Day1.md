@@ -4,7 +4,16 @@
 
 * Define AI, ML, and Deep Learning  
 * Explore the types of machine learning  
-* Understand basic terms: dataset, model, training, features, labels  
+* Understand basic terms: dataset, model, training, features, labels
+
+  
+### 🎯 Learning Goal
+
+By the end of this lesson, you'll confidently understand:
+
+1. What AI, ML, and DL are
+2. The 3 types of learning (Supervised, Unsupervised, Reinforcement)
+3. Core algorithms (like Decision Trees, K-Means, Q-Learning, etc.)
 
 ---
 
@@ -17,23 +26,6 @@
 | **Reinforcement** | Model learns by trial and error using feedback (reward/punishment) | Train a drone to navigate through a maze    |
 
 ---
-
-Great, Rakesh! Let’s start your **AI journey** with simple, digestible lessons—full of analogies, visuals, and hands-on exercises. I’ll act like a personal tutor guiding you at your pace.
-
----
-
-## 🧠 AI Lesson Series: Beginner Track
-
-### 🎯 Learning Goal
-
-By the end of this series, you'll confidently understand:
-
-1. What AI, ML, and DL are
-2. The 3 types of learning (Supervised, Unsupervised, Reinforcement)
-3. Core algorithms (like Decision Trees, K-Means, Q-Learning, etc.)
-
----
-
 ## 👣 ** What is AI, ML, and DL?**
 
 ### 🍽️ Analogy: The Chef Trio
