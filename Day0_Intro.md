@@ -2,7 +2,6 @@
 ##
 🌐 Day 0 – AI Today: Evolution, Roadmap & Careers |                  |
   ### 📌 What This Covers:
-
   * Where AI is today
   * How AI, GenAI, Super AI, and OI differ
   * AI evolution roadmap
