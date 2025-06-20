@@ -1,4 +1,4 @@
-# 🤖 AI/ML Foundations with Drones & Robotics – GitHub Learning Series by Rakesh
+# 🤖 AI/ML Foundations with Drones & Robotics – GitHub Learning Series by Rakesh Rapaka
 
 Welcome to your **AI/ML with Drones & Robotics** learning series! This Git repository is designed for learners who want to understand AI/ML fundamentals in a general-purpose way **with practical examples from drones and robotics** — perfect for students, professionals, and enthusiasts.
 
