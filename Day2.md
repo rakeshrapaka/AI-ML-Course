@@ -92,26 +92,6 @@ print(df)
 print(df[df['altitude'] > 110])
 ```
 
----
-
-## 🧠 Suggested Mind Map: Python for AI/ML
-
-* Python Basics
-
-  * Variables, Loops, Conditionals
-  * Functions
-* Libraries
-
-  * NumPy → Arrays, vectorized operations
-  * Pandas → DataFrames, CSV handling
-* Drone Example Use Cases
-
-  * Telemetry reading
-  * Battery alerting
-  * Altitude conversions
-
----
-
 ## 📂 Suggested Practice
 
 * Create a function to flag low-battery warnings
