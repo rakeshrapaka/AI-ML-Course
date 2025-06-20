@@ -1,23 +1,21 @@
 ---
-
 ##
 🌐 Day 0 – AI Today: Evolution, Roadmap & Careers |                  |
+  ### 📌 What This Covers:
 
-### 📌 What This Covers:
+  * Where AI is today
+  * How AI, GenAI, Super AI, and OI differ
+  * AI evolution roadmap
+  * Key roles and job descriptions in the AI/ML industry
 
-* Where AI is today
-* How AI, GenAI, Super AI, and OI differ
-* AI evolution roadmap
-* Key roles and job descriptions in the AI/ML industry
+  ### 🌍 Where We Are in AI Today
 
-### 🌍 Where We Are in AI Today
-
-* **AI (Artificial Intelligence)**: Machines mimicking human intelligence to automate tasks
-* **Machine Learning (ML)**: A subset of AI that trains systems using data
-* **Deep Learning (DL)**: A more advanced subset of ML using layered neural networks
-* **Generative AI (GenAI)**: AI that creates — text, images, code (e.g., ChatGPT, GitHub Copilot, DALL·E)
-* **Super AI**: Hypothetical future AI smarter than humans across all domains
-* **Omnipotent Intelligence (OI)**: Future concept of globally interconnected, all-knowing AI systems
+  * **AI (Artificial Intelligence)**: Machines mimicking human intelligence to automate tasks
+  * **Machine Learning (ML)**: A subset of AI that trains systems using data
+  * **Deep Learning (DL)**: A more advanced subset of ML using layered neural networks
+  * **Generative AI (GenAI)**: AI that creates — text, images, code (e.g., ChatGPT, GitHub Copilot, DALL·E)
+  * **Super AI**: Hypothetical future AI smarter than humans across all domains
+  * **Omnipotent Intelligence (OI)**: Future concept of globally interconnected, all-knowing AI systems
 
 > ✅ We are currently at the **Narrow AI + early GenAI** stage. Models like GPT-4 can write, solve problems, and code — but not think across all domains like a human.
 
