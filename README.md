@@ -6,5 +6,4 @@ Welcome to your **AI/ML with Drones & Robotics** learning series! This Git repos
 ## 🌐 Day 0 – AI Today: Evolution, Roadmap & Careers
 ## 🗓️ Day 1 – Introduction to AI/ML (with Drone & Robotics Perspective)
 ## 🐍 Day 2 - Python Basics for AI/ML (with Drone-Relevant Examples)
-
- 
+## 🧮 Day 3 - Math for Machine Learning – Linear Algebra, Stats, and Probability
