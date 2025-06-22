@@ -1,11 +1,11 @@
 # Day 0 – Welcome to AI! 🚀
 
-## Why This Matters
+## 
 Artificial Intelligence is transforming every industry. Knowing **where we are now** and **where we’re heading** empowers you to stay relevant and unlock new opportunities.
 
 ---
 
-## Today’s Key Takeaways
+## Key Takeaways
 - **Understand** the current AI landscape (AI vs ML vs DL vs GenAI)  
 - **See** the big picture roadmap from Narrow AI to Omnipotent Intelligence  
 - **Discover** real‑world job roles & the skills they demand  
