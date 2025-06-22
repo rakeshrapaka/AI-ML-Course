@@ -1,5 +1,5 @@
 # Day 0 – Welcome to AI! 🚀
-
+---
 ## 
 Artificial Intelligence is transforming every industry. Knowing **where we are now** and **where we’re heading** empowers you to stay relevant and unlock new opportunities.
 
