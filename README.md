@@ -1,5 +1,5 @@
 # 🤖 AI/ML Foundations with Drones & Robotics  
-### 📘 GitHub Learning Series by ***Rachno*** _(in 3 Idiots style)_  
+### 📘 GitHub Learning Series  ***Rachno Style*** _(in 3 Idiots)_  
 <details>
   <summary>👇 Click to unzip & explore the magic of AI like Rancho zipped up knowledge 🎒</summary>
 
