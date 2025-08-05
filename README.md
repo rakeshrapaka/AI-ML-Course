@@ -8,7 +8,7 @@ Welcome to a hands-on, beginner-friendly, and fun-filled journey into the world 
 
 
 - **Day 0** – [AI Today: Evolution, Roadmap & Careers](/Day0_Intro.md)
-- **Day 1** – [Introduction to AI/ML (with Drone & Robotics Perspective)](/Lesson1/Lesson1_JusBegin.md) 
+- **Day 1** – [Introduction to AI/ML (with Robotics Perspective)](/Lesson1/Lesson1_JusBegin.md) 
 - **Day 2** – [Supervised vs Unsupervised vs Reinforcement Learning](/Lesson2/Lesson2_B.md)
 - **Day 3** – [Math for ML: Linear Algebra, Stats, Probability](/Lesson3/Lesson3_Basic.md) 
   - **Day 3B** – [From Data to Model: The Learning Process](/Lesson3/Lesson3B_Basic.md)  
