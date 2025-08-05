@@ -33,30 +33,30 @@ This course is designed to take you from **absolute beginner** to **expert**, us
 ## 📅 Learning Journey Overview
 
 ### **Phase 1 – Foundations**
-1. [Lesson 1 – AI Architecture: The Brain’s Blueprint](Lesson_1_AI_Architecture.md)  
+1. [Lesson 1 – AI Architecture: The Brain’s Blueprint](/Lesson1/Lesson1_JusBegin.md)  
    *Understand the basics of AI models and build a simple perceptron.*
 
-2. [Lesson 2 – System Design for AI: Building the Playground for the Brain](Lesson_2_System_Design_for_AI.md)  
+2. [Lesson 2 – System Design for AI: Building the Playground for the Brain](/Lesson2/SystemDesign_for_AI_Advance.md)  
    *Learn how to design scalable systems that power AI applications.*
 
-3. [Lesson 3 – Robotics Fundamentals: Giving AI a Body](Lesson_3_Robotics_Fundamentals.md)  
+3. [Lesson 3 – Robotics Fundamentals: Giving AI a Body](/Lesson3/Giving_AI_Body_Advance.md)  
    *Explore how sensors, actuators, and control loops create intelligent robots.*
 
 ---
 
 ### **Phase 2 – Integration**
-4. [Lesson 4 – Designing AI Systems for Robotics: Making Robots Intelligent](Lesson_4_Designing_AI_Systems_for_Robotics.md)  
+4. [Lesson 4 – Designing AI Systems for Robotics: Making Robots Intelligent](/Lesson4/Designing_AI_Systems_for_Robotics_Advance.md)  
    *Integrate AI with robotics for decision-making and autonomy.*
 
-5. [Lesson 5 – Sensor Fusion & AI Perception: Giving Robots Super Senses](Lesson_5_Sensor_Fusion_and_AI_Perception.md)  
+5. [Lesson 5 – Sensor Fusion & AI Perception: Giving Robots Super Senses](/Lesson5/SensorFusion_And_AIPerception_Advance.md)  
    *Combine multiple sensors to enhance robot perception.*
 
 ---
 
-### **Phase 3 – Expert Level** *(Upcoming)*
-6. Lesson 6 – Scalable AI Architectures for Robotics *(Coming Soon)*  
-7. Lesson 7 – Cloud & Edge Deployment of Robotic AI Systems *(Coming Soon)*  
-8. Lesson 8 – Advanced Robotics-AI Synergy & Real-World Projects *(Coming Soon)*  
+### **Phase 3 – Expert Level** 
+6. [Lesson 6 – Scalable AI Architectures for Robotics](/Lesson6/ScalableAI_Architectures_Robotics_Advance.md) 
+7. [Lesson 7 – Cloud & Edge Deployment of Robotic AI Systems](/Lesson7/Cloud_And_EdgeDeployment_Robotic_AISystems_Advance.md)  
+8. [Lesson 8 – Advanced Robotics-AI Synergy & Real-World Projects](/Lesson8/Obotics-AI_Synergy_Advance.md)  
 
 ---
 

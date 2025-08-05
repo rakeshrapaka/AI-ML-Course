@@ -113,4 +113,4 @@ You have now:
 
 ---
 
-🎓 **Congratulations! You’ve completed the AI + Robotics MIT-Style Learning Path.**
+🎓 **Congratulations! You’ve completed the AI + Robotics Learning Path.**
