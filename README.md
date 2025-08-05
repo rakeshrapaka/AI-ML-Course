@@ -1,7 +1,7 @@
 # 🤖 AI/ML Foundations with Drones & Robotics  
 ### 📘 GitHub Learning Series  
 
-Welcome to a hands-on, beginner-friendly, and fun-filled journey into the world of **Artificial Intelligence and Machine Learning**—designed especially with **Drones, Robotics**, and **curious minds** in mind. This series is crafted by *Rakesh Rapaka*, your friendly neighborhood AI,Robotics enthusiast .
+Welcome to a hands-on, beginner-friendly, and fun-filled journey into the world of **Artificial Intelligence and Machine Learning**—designed especially with **Drones, Robotics**, and **curious minds** in mind. This series is crafted by [Rakesh Rapaka](https://www.linkedin.com/in/rakeshrapaka/), your friendly neighborhood AI,Robotics enthusiast .
 
 ---
 
