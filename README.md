@@ -26,7 +26,7 @@ Welcome to a hands-on, beginner-friendly, and fun-filled journey into the world 
 # 🚀 AI + Robotics Mastery: From Beginner to Expert
 
 Welcome to your **personalized AI Architecture, System Design, and Robotics Integration learning journey**.  
-This course is designed to take you from **absolute beginner** to **expert**, using **bite-sized lessons**, **real-world analogies**, and **hands-on exercises**.
+This course is designed to take you from **absolute beginner** to **expert**, using  **real-world analogies**, and **hands-on exercises**.
 
 ---
 
