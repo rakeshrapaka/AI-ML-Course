@@ -7,16 +7,16 @@ Welcome to a hands-on, beginner-friendly, and fun-filled journey into the world 
 ## 📅 Learning Journey Overview
 
 
-- **Day 0** – AI Today: Evolution, Roadmap & Careers  
-- **Day 1** – Introduction to AI/ML (with Drone & Robotics Perspective)  
-- **Day 2** – Supervised vs Unsupervised vs Reinforcement Learning  
-- **Day 3** – Math for ML: Linear Algebra, Stats, Probability  
-  - **Day 3B** – From Data to Model: The Learning Process  
-- **Day 4** – Perceptron & Activation Functions  
-- **Day 5** – Neural Networks Basics  
-- **Day 6** – Deep Learning Fundamentals  
-- **Day 7** – Convolutional Neural Networks (CNNs)  
-- **Day 8** – Recurrent Neural Networks (RNNs) & LSTMs  
+- **Day 0** – [AI Today: Evolution, Roadmap & Careers](/Day0_Intro.md)
+- **Day 1** – [Introduction to AI/ML (with Drone & Robotics Perspective)](/Lesson1/Lesson1_JusBegin.md) 
+- **Day 2** – [Supervised vs Unsupervised vs Reinforcement Learning](/Lesson2/Lesson2_B.md)
+- **Day 3** – [Math for ML: Linear Algebra, Stats, Probability](/Lesson3/Lesson3_Basic.md) 
+  - **Day 3B** – [From Data to Model: The Learning Process](/Lesson3/Lesson3B_Basic.md)  
+- **Day 4** – [Perceptron & Activation Functions](/Lesson4/Perceptron_n_Activation%20Functions.md) 
+- **Day 5** – [Neural Networks Basics](/Lesson5/Neural%20Networks%20Basics.md)
+- **Day 6** – [Deep Learning Fundamentals](/Lesson6/Deep%20Learning%20Fundamentals.md)
+- **Day 7** – [Convolutional Neural Networks (CNNs)](/Lesson7/Convolutional%20Neural%20Networks.md) 
+- **Day 8** – [Recurrent Neural Networks (RNNs) & LSTMs](/Lesson8/day8_rnn_lstm.md) 
 - **Day 9** – Reinforcement Learning Basics  
 - **Day 10** – Transformers and Attention Mechanism  
 - **Day 11** – Applied AI for Robotics & Drones  
