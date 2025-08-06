@@ -32,7 +32,7 @@ This course is designed to take you from **absolute beginner** to **expert**, us
 ## 📅 Learning Journey Overview
 
 ### **Phase 1 – Foundations**
-1. [Lesson 1 – AI Architecture: The Brain’s Blueprint](/Lesson1/Lesson1_JusBegin.md)  
+1. [Lesson 1 – AI Architecture: The Brain’s Blueprint](/Lesson1/Lesson1_Advance.md)  
    *Understand the basics of AI models and build a simple perceptron.*
 
 2. [Lesson 2 – System Design for AI: Building the Playground for the Brain](/Lesson2/SystemDesign_for_AI_Advance.md)  
